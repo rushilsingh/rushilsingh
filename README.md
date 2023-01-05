@@ -1,7 +1,7 @@
 
 
 ## About
-Rushil Singh is a quality-oriented software engineering professional, with over 4 years of experience and proven knowledge of software development, working in the video technology domain with a focus on information security, intelligence gathering and data engineering.
+Experienced quality-oriented software engineer working on cybersecurity and piracy disruption solutions for video content.
 ## Career
 
 ### Professional Experience
