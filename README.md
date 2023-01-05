@@ -13,7 +13,7 @@ Experienced quality-oriented software engineer working on cybersecurity and pira
 - Software Engineer
 - Feb 2020 - Present
   - Bengaluru, Karnataka, India
-    - Information Security, Intelligence and Data Engineering
+    - Cybersecurity and piracy disruption solutions for video content.
 
 #### Volen Software Services
 <img class="logo" src="assets/img/volen.png" width="150" height="150"/>
