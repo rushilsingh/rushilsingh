@@ -1,7 +1,7 @@
 
 
 ## About
-Experienced quality-oriented software engineer working on cybersecurity and piracy disruption solutions for video content.
+Experienced quality-oriented software engineer working on Cybersecurity, Anti-piracy and Addressable Advertising for video content.
 ## Career
 
 ### Professional Experience
@@ -13,7 +13,7 @@ Experienced quality-oriented software engineer working on cybersecurity and pira
 - Software Engineer
 - Feb 2020 - Present
   - Bengaluru, Karnataka, India
-    - Cybersecurity and piracy disruption solutions for video content.
+    - Cybersecurity, Anti-piracy and Addressable Advertising solutions for video content.
 
 #### Volen Software Services
 <img class="logo" src="assets/img/volen.png" width="150" height="150"/>
@@ -21,8 +21,7 @@ Experienced quality-oriented software engineer working on cybersecurity and pira
 - Software Engineer
   - September 2019 - February 2020 (6 months)
   - Bengaluru, Karnataka, India
-   - Contractual work with clients.
-   - Writing of Python code to support bespoke functionality that may be required.
+   - Contractual work with clients developing bespoke software solutions.
 
 #### Alten Calsoft Labs
 <img class="logo" src="assets/img/alten_calsoft_labs.gif" width="100" height="100"/>
@@ -30,8 +29,7 @@ Experienced quality-oriented software engineer working on cybersecurity and pira
 - Software Engineer
   - May 2017 - June 2019 (2 years 2 months)
   - Bengaluru, Karnataka, India
-    - Managing orchestration of network devices, appliances and virtual appliances.
-    - Working in the SDN and NFV space.
+    - Solutions for orchestrating network devices, appliances and virtual appliances in the SDN and NFV space.
 
 #### The University of British Columbia
 <img class="logo" src="assets/img/ubc.png" height="100" width="100"/>
