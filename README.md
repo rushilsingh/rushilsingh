@@ -10,8 +10,13 @@ Experienced quality-oriented software engineer working on Cybersecurity, Anti-pi
 
 <img class="logo" src="assets/img/synamedia.gif" />
 
+- Senior Software Engineer
+- Jan 2024 - Present
+  - Remote
+    - Developing and maintaining cloud infrastructure and backend components for web, mobile, and set-top box video applications.
+
 - Software Engineer
-- Feb 2020 - Present
+- Feb 2020 - Dec 2023 (2 years 11 months)
   - Bengaluru, Karnataka, India
     - Cybersecurity, Anti-piracy and Addressable Advertising solutions for video content.
 
@@ -19,7 +24,7 @@ Experienced quality-oriented software engineer working on Cybersecurity, Anti-pi
 <img class="logo" src="assets/img/volen.png" width="150" height="150"/>
 
 - Software Engineer
-  - September 2019 - February 2020 (6 months)
+  - September 2019 - February 2020 (5 months)
   - Bengaluru, Karnataka, India
    - Contractual work with clients developing bespoke software solutions.
 
