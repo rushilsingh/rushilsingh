@@ -13,7 +13,9 @@ Experienced quality-oriented software engineer working on Cybersecurity, Anti-pi
 - Senior Software Engineer
 - Jan 2024 - Present
   - Remote
-    - Developing and maintaining cloud infrastructure and backend components for web, mobile, and set-top box video applications.
+  - Develop and maintain scalable content discovery and recommendation services, integrating metadata aggregation, AI/ML enrichment, and search APIs to enhance personalized entertainment experiences.
+
+ - Develop and maintain cloud infrastructure and backend components for web, mobile, and set-top box video applications.
 
 - Software Engineer
 - Feb 2020 - Dec 2023 (2 years 11 months)
